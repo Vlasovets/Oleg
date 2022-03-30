@@ -1,8 +1,6 @@
-
+<p align="center">
 
 <br />
-
-Welcome to a Github page of one data enthusiast:)
 
 **About me**
 
