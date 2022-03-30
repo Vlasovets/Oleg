@@ -3,9 +3,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasovets&hide=jupyter%20notebook&langs_count=7&layout=compact)
 
 
-<a href="https://github.com/Vlasovets/Oleg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=Oleg" />
+<a href="https://github.com/Vlasovets/q2-gglasso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=q2-gglasso" />
 </a>
-<a href="https://github.com/Vlasovets/Oleg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=Oleg" />
+<a href="https://github.com/Vlasovets/GGLasso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=GGLasso" />
+</a>
+<a href="https://github.com/Vlasovets/brain_challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=brain_challenge" />
+</a>
+<a href="https://github.com/Vlasovets/Causal_Microbiome_Tutorial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=Causal_Microbiome_Tutorial" />
 </a>
