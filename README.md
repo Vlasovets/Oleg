@@ -3,9 +3,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasovets&hide=jupyter%20notebook&langs_count=7&layout=compact)
 
 
-<a href="https://github.com/Vlasovets/q2-gglasso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=q2-gglasso" />
-</a>
 <a href="https://github.com/Vlasovets/GGLasso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=GGLasso" />
 </a>
