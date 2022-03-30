@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Vlasovets.github.io"><img width="80%" /></a></p>
+
 
 <br />
 
@@ -13,13 +13,13 @@ Welcome to a Github page of one data enthusiast:)
 - 🦠 Currently studying bacteria in our gut
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasovets&hide=jupyter%20notebook&langs_count=7&layout=compact" /></a> |
+| <a href="https://github.com/Vlasovets/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" alt="Oleg's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasovets&hide=jupyter%20notebook&langs_count=7&layout=compact" /></a> |
 | ------------- | ------------- |
 
 
 
 
-#### Main Projects
+#### Current Projects
 
 <a href="https://github.com/Vlasovets/GGLasso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlasovets&repo=GGLasso" />
