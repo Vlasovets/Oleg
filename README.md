@@ -1,3 +1,1 @@
-# Oleg
-
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true)
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy)
