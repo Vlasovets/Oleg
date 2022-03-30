@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/Vlasovets/Oleg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" alt="Oleg's github stats"/>
 </a>
 
 <a href="https://github.com/Vlasovets/Oleg">
