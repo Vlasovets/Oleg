@@ -11,7 +11,7 @@
 - 🦠 Currently studying bacteria in our gut
 
 
-<a href="https://github.com/Vlasovets/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" alt="Oleg's github stats" /></a>
+<!-- <a href="https://github.com/Vlasovets/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlasovets&count_private=true&show_icons=true&theme=buefy" alt="Oleg's github stats" /></a> -->
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasovets&hide=jupyter%20notebook&langs_count=7&layout=compact" /></a>
 
