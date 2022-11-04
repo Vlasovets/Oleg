@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🧐 PhD Candidate at [Helmholtz Zentrum München](https://www.helmholtz-munich.de/helmholtz-zentrum-muenchen/index.html) and [Ludwig-Maximilians-Universität München](https://www.en.statistik.uni-muenchen.de/index.html)
+- 🧐 PhD Candidate at [Helmholtz Munich](https://www.helmholtz-munich.de/helmholtz-zentrum-muenchen/index.html) and [Ludwig-Maximilians-Universität München](https://www.en.statistik.uni-muenchen.de/index.html)
 
 - ☕ Machine learning / Data Science backround
 
